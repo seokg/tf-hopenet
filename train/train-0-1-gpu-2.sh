@@ -1,0 +1,1 @@
+python hopenet.py --gpu 2 --ce 0 --alpha 1
