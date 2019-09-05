@@ -1,0 +1,4 @@
+tensorflow-gpu=1.13.1
+opencv-contrib-python
+scikit
+pillow
