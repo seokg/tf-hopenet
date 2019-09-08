@@ -1,4 +1,4 @@
-# TF Head Pose Estimnation
+# TF Hopenet - Head Pose Estimnation
 
 A `Tensorflow` implementation of [Fine-Grained Head Pose Estimation Without Keypoints](https://arxiv.org/abs/1710.00925v2). 
 
