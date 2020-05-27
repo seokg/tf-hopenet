@@ -12,7 +12,7 @@ The original Pytorch version is [here](https://github.com/natanielruiz/deep-head
 
 The `pb` file trained on `300W-LP` is available [[link]](https://drive.google.com/file/d/1X_BFL7fijrtjOH2p2qfJKSCVpxWm00gA/view?usp=sharing)
 
-Use the `main.py` file for cam demo
+Use the `hopenet.py` file for cam demo
 
 --------
 _This repository has been forked from [here](https://github.com/lgcy/tf-head-pose)_
